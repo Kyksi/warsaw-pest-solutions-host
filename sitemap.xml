@@ -1,63 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Polish (Primary) -->
   <url>
     <loc>https://sos-expert.pl/pl</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl"/>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
+  
+  <!-- English -->
+  <url>
+    <loc>https://sos-expert.pl/en</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl"/>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Russian -->
+  <url>
+    <loc>https://sos-expert.pl/ru</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl"/>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Ukrainian -->
+  <url>
+    <loc>https://sos-expert.pl/ua</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl"/>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Blog Polish -->
   <url>
     <loc>https://sos-expert.pl/pl/blog</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/pl/blog/pluskwy-jak-sie-pozbyc</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/pl/blog/karaluchy-prusaki-jak-zwalczac</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/pl/blog/osy-szerszenie-gniazdo-co-robic</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
-  <url>
-    <loc>https://sos-expert.pl/en</loc>
-  </url>
+  
+  <!-- Blog English -->
   <url>
     <loc>https://sos-expert.pl/en/blog</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/en/blog/pluskwy-jak-sie-pozbyc</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/en/blog/karaluchy-prusaki-jak-zwalczac</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/en/blog/osy-szerszenie-gniazdo-co-robic</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://sos-expert.pl/ru</loc>
-  </url>
+  
+  <!-- Blog Russian -->
   <url>
     <loc>https://sos-expert.pl/ru/blog</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/ru/blog/pluskwy-jak-sie-pozbyc</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/ru/blog/karaluchy-prusaki-jak-zwalczac</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/ru/blog/osy-szerszenie-gniazdo-co-robic</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://sos-expert.pl/ua</loc>
-  </url>
+  
+  <!-- Blog Ukrainian -->
   <url>
     <loc>https://sos-expert.pl/ua/blog</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/ua/blog/pluskwy-jak-sie-pozbyc</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/ua/blog/karaluchy-prusaki-jak-zwalczac</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/ua/blog/osy-szerszenie-gniazdo-co-robic</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
