@@ -1,4 +1,4 @@
-# SOS Expert - Dezynsekcja Warszawa
+# S.O.S. Expert - Dezynsekcja Warszawa
 # https://sos-expert.pl
 
 User-agent: Googlebot

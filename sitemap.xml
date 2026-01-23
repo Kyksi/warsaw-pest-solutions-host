@@ -80,6 +80,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://sos-expert.pl/pl/blog/jak-przygotowac-mieszkanie-do-dezynsekcji</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sos-expert.pl/pl/blog/ozonowanie-na-czym-polega</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <!-- Blog English -->
   <url>
@@ -102,6 +114,18 @@
   </url>
   <url>
     <loc>https://sos-expert.pl/en/blog/osy-szerszenie-gniazdo-co-robic</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sos-expert.pl/en/blog/jak-przygotowac-mieszkanie-do-dezynsekcji</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sos-expert.pl/en/blog/ozonowanie-na-czym-polega</loc>
     <lastmod>2026-01-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -132,6 +156,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>https://sos-expert.pl/ru/blog/jak-przygotowac-mieszkanie-do-dezynsekcji</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sos-expert.pl/ru/blog/ozonowanie-na-czym-polega</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
   
   <!-- Blog Ukrainian -->
   <url>
@@ -154,6 +190,18 @@
   </url>
   <url>
     <loc>https://sos-expert.pl/ua/blog/osy-szerszenie-gniazdo-co-robic</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sos-expert.pl/ua/blog/jak-przygotowac-mieszkanie-do-dezynsekcji</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sos-expert.pl/ua/blog/ozonowanie-na-czym-polega</loc>
     <lastmod>2026-01-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
