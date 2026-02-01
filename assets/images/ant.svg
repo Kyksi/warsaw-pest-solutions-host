@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 32 32" viewBox="0 0 32 32" id="ant">
+  <ellipse cx="16" cy="9" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" rx="3" ry="4"></ellipse>
+  <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="14 2 12 4 14 6"></polyline>
+  <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="18 2 20 4 18 6"></polyline>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="
+	M17.164,19.241C17.669,18.514,18,17.338,18,16c0-1.37-0.345-2.578-0.871-3.298C16.78,12.891,16.4,13,16,13s-0.78-0.109-1.129-0.298
+	C14.345,13.422,14,14.63,14,16c0,1.338,0.331,2.514,0.836,3.241C13.198,19.867,12,21.748,12,24c0,2.761,1.791,5,4,5s4-2.239,4-5
+	C20,21.748,18.802,19.867,17.164,19.241z"></path>
+  <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="14 15 7 15 3 13"></polyline>
+  <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="8 27 8 20 14 17"></polyline>
+  <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="7 4 7 10 14 15"></polyline>
+  <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="18 15 25 15 29 13"></polyline>
+  <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="24 27 24 20 18 17"></polyline>
+  <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="25 4 25 10 18 15"></polyline>
+</svg>

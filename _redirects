@@ -1,1 +1,41 @@
+# Prevent automatic directory slash redirects (e.g. /pl -> /pl/)
+# by rewriting known prerendered routes directly to their index.html.
+# Keep this list in sync with scripts/prerender.mjs.
+
+/pl /pl/index.html 200
+/en /en/index.html 200
+/ru /ru/index.html 200
+/ua /ua/index.html 200
+
+/pl/blog /pl/blog/index.html 200
+/en/blog /en/blog/index.html 200
+/ru/blog /ru/blog/index.html 200
+/ua/blog /ua/blog/index.html 200
+
+/pl/blog/pluskwy-jak-sie-pozbyc /pl/blog/pluskwy-jak-sie-pozbyc/index.html 200
+/en/blog/pluskwy-jak-sie-pozbyc /en/blog/pluskwy-jak-sie-pozbyc/index.html 200
+/ru/blog/pluskwy-jak-sie-pozbyc /ru/blog/pluskwy-jak-sie-pozbyc/index.html 200
+/ua/blog/pluskwy-jak-sie-pozbyc /ua/blog/pluskwy-jak-sie-pozbyc/index.html 200
+
+/pl/blog/karaluchy-prusaki-jak-zwalczac /pl/blog/karaluchy-prusaki-jak-zwalczac/index.html 200
+/en/blog/karaluchy-prusaki-jak-zwalczac /en/blog/karaluchy-prusaki-jak-zwalczac/index.html 200
+/ru/blog/karaluchy-prusaki-jak-zwalczac /ru/blog/karaluchy-prusaki-jak-zwalczac/index.html 200
+/ua/blog/karaluchy-prusaki-jak-zwalczac /ua/blog/karaluchy-prusaki-jak-zwalczac/index.html 200
+
+/pl/blog/osy-szerszenie-gniazdo-co-robic /pl/blog/osy-szerszenie-gniazdo-co-robic/index.html 200
+/en/blog/osy-szerszenie-gniazdo-co-robic /en/blog/osy-szerszenie-gniazdo-co-robic/index.html 200
+/ru/blog/osy-szerszenie-gniazdo-co-robic /ru/blog/osy-szerszenie-gniazdo-co-robic/index.html 200
+/ua/blog/osy-szerszenie-gniazdo-co-robic /ua/blog/osy-szerszenie-gniazdo-co-robic/index.html 200
+
+/pl/blog/jak-przygotowac-mieszkanie-do-dezynsekcji /pl/blog/jak-przygotowac-mieszkanie-do-dezynsekcji/index.html 200
+/en/blog/jak-przygotowac-mieszkanie-do-dezynsekcji /en/blog/jak-przygotowac-mieszkanie-do-dezynsekcji/index.html 200
+/ru/blog/jak-przygotowac-mieszkanie-do-dezynsekcji /ru/blog/jak-przygotowac-mieszkanie-do-dezynsekcji/index.html 200
+/ua/blog/jak-przygotowac-mieszkanie-do-dezynsekcji /ua/blog/jak-przygotowac-mieszkanie-do-dezynsekcji/index.html 200
+
+/pl/blog/ozonowanie-na-czym-polega /pl/blog/ozonowanie-na-czym-polega/index.html 200
+/en/blog/ozonowanie-na-czym-polega /en/blog/ozonowanie-na-czym-polega/index.html 200
+/ru/blog/ozonowanie-na-czym-polega /ru/blog/ozonowanie-na-czym-polega/index.html 200
+/ua/blog/ozonowanie-na-czym-polega /ua/blog/ozonowanie-na-czym-polega/index.html 200
+
+# SPA fallback
 /* /index.html 200
