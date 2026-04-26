@@ -2,6 +2,9 @@
 # by rewriting known prerendered routes directly to their index.html.
 # Keep this list in sync with scripts/prerender.mjs.
 
+# Root redirect to Polish (primary language) - 301 for SEO
+/ /pl 301
+
 /pl /pl/index.html 200
 /en /en/index.html 200
 /ru /ru/index.html 200

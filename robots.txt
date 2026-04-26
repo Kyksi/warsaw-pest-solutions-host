@@ -31,5 +31,4 @@ Sitemap: https://sos-expert.pl/sitemap.xml
 
 # Disallow admin and private paths
 Disallow: /api/
-Disallow: /_next/
 Disallow: /admin/
