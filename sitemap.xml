@@ -6,11 +6,11 @@
   <!-- Polish (Primary) -->
   <url>
     <loc>https://sos-expert.pl/pl</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl/"/>
     <image:image>
       <image:loc>https://sos-expert.pl/og-image.png</image:loc>
       <image:title>SOS Expert - Dezynsekcja Warszawa 24/7</image:title>
@@ -23,11 +23,11 @@
   <!-- English -->
   <url>
     <loc>https://sos-expert.pl/en</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl/"/>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -36,11 +36,11 @@
   <!-- Russian -->
   <url>
     <loc>https://sos-expert.pl/ru</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl/"/>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -49,11 +49,11 @@
   <!-- Ukrainian -->
   <url>
     <loc>https://sos-expert.pl/ua</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl/"/>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -62,44 +62,44 @@
   <!-- Blog Index Pages -->
   <url>
     <loc>https://sos-expert.pl/pl/blog</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl/blog"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en/blog"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru/blog"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua/blog"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl/blog"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru/blog/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl/blog/"/>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/en/blog</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl/blog"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en/blog"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru/blog"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua/blog"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl/blog"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru/blog/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl/blog/"/>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/ru/blog</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl/blog"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en/blog"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru/blog"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua/blog"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl/blog"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru/blog/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl/blog/"/>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sos-expert.pl/ua/blog</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl/blog"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en/blog"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru/blog"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua/blog"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl/blog"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://sos-expert.pl/pl/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sos-expert.pl/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sos-expert.pl/ru/blog/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://sos-expert.pl/ua/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sos-expert.pl/pl/blog/"/>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
